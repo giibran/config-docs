@@ -1,0 +1,14 @@
+[user]
+        name = Gibran Arias
+        email = gibran.arias@mexicoder.com.mx
+[color]
+    ui = true
+[alias]
+    co = checkout
+    cm = commit
+    history = log --graph --oneline --decorate
+    st = status
+    unstage = reset HEAD --
+[core]
+    editor = vim
+~
