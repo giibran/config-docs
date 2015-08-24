@@ -1,0 +1,22 @@
+{
+    "Python":
+    {
+        "translate_tabs_to_spaces": true
+    },
+    "color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+    "draw_white_space": "all",
+    "ensure_newline_at_eof_on_save": true,
+    "font_size": 11,
+    "ignored_packages":
+    [
+    "Vintage"
+    ],
+    "rulers":
+    [
+    79
+    ],
+    "scroll_past_end": true,
+    "tab_size": 4,
+    "trim_trailing_white_space_on_save": true
+}
+
