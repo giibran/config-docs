@@ -3,6 +3,10 @@
     {
         "translate_tabs_to_spaces": true
     },
+    "JavaScript":
+    {
+        "tab_size": 2
+    },
     "color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
     "draw_white_space": "all",
     "ensure_newline_at_eof_on_save": true,
